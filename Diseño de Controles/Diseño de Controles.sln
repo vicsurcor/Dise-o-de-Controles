@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diseño de Controles", "Diseño de Controles.csproj", "{F942C496-759C-4B09-8965-65B23B57641E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F942C496-759C-4B09-8965-65B23B57641E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F942C496-759C-4B09-8965-65B23B57641E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F942C496-759C-4B09-8965-65B23B57641E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F942C496-759C-4B09-8965-65B23B57641E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0ABB675-E77E-49C2-A010-9CDDC4291609}
+	EndGlobalSection
+EndGlobal
