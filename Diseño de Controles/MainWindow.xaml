@@ -5,8 +5,298 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Diseño_de_Controles"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Diseño de Controles VictorSuros" Height="450" Width="800" HorizontalAlignment="Center">
     <Grid>
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition/>
+
+            <RowDefinition/>
+
+            <RowDefinition/>
+
+
+        </Grid.RowDefinitions>
+
+        <TextBox Height="100" Width="500" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Caja de Texto</TextBox>
+
+        <ComboBox Grid.Row="1" Height="20" Width="100" VerticalAlignment="Top">
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+            <ComboBoxItem>
+
+                <Grid>
+
+                    <Grid.ColumnDefinitions>
+
+                        <ColumnDefinition/>
+
+                        <ColumnDefinition/>
+
+                    </Grid.ColumnDefinitions>
+
+
+                    <Image></Image>
+
+                    <TextBox Grid.Column="1"></TextBox>
+
+                </Grid>
+
+            </ComboBoxItem>
+
+        </ComboBox>
+
+        <ListBox Grid.Row="2" Width="500" Height="100" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+
+            <ListBoxItem>
+
+                <Grid Width="400">
+
+                    <Grid.ColumnDefinitions>
+
+
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="5*"/>
+
+
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+
+                    <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="20"></ProgressBar>
+                    
+                    
+
+                </Grid>
+
+                
+                
+
+            </ListBoxItem>
+            <ListBoxItem>
+
+                <Grid Width="400">
+
+                    <Grid.ColumnDefinitions>
+
+
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="5*"/>
+
+
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+
+                    <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="70"></ProgressBar>
+
+
+
+                </Grid>
+
+
+
+
+            </ListBoxItem>
+            <ListBoxItem>
+
+                <Grid Width="400">
+
+                    <Grid.ColumnDefinitions>
+
+
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="5*"/>
+
+
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+
+                    <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="47"></ProgressBar>
+
+
+
+                </Grid>
+
+
+
+
+            </ListBoxItem>
+            <ListBoxItem>
+
+                <Grid Width="400">
+
+                    <Grid.ColumnDefinitions>
+
+
+                        <ColumnDefinition Width="5*"/>
+                        <ColumnDefinition Width="5*"/>
+
+
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+
+                    <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="28"></ProgressBar>
+
+
+
+                </Grid>
+
+
+
+
+            </ListBoxItem>
+
+        </ListBox>
         
     </Grid>
 </Window>
