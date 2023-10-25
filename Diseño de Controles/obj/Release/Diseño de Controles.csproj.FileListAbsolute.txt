@@ -1,0 +1,14 @@
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\bin\Release\Diseño de Controles.exe.config
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\bin\Release\Diseño de Controles.exe
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\bin\Release\Diseño de Controles.pdb
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\MainWindow.g.cs
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\App.g.cs
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles_MarkupCompile.cache
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles_MarkupCompile.lref
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\MainWindow.baml
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles.g.resources
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño_de_Controles.Properties.Resources.resources
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles.csproj.GenerateResource.cache
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles.csproj.CoreCompileInputs.cache
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles.exe
+C:\Users\alumTA\Desktop\DEIN\Diseño de Controles\Diseño de Controles\obj\Release\Diseño de Controles.pdb

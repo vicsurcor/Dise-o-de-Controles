@@ -19,7 +19,7 @@
 
         </Grid.RowDefinitions>
 
-        <TextBox Height="100" Width="500" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Diseño de Controles</TextBox>
+        <TextBox Height="100" Width="500" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" SpellCheck.IsEnabled="True">Diseño de Controles</TextBox>
 
         <ComboBox Grid.Row="1" Height="20" Width="500" VerticalAlignment="Top">
 
