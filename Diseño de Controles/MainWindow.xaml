@@ -19,7 +19,7 @@
 
         </Grid.RowDefinitions>
 
-        <TextBox Height="100" Width="500" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Caja de Texto</TextBox>
+        <TextBox Height="100" Width="500" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">Diseño de Controles</TextBox>
 
         <ComboBox Grid.Row="1" Height="20" Width="500" VerticalAlignment="Top">
 
@@ -208,7 +208,7 @@
 
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">Desarollo de Interfaces</TextBlock>
 
                     <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="20"></ProgressBar>
                     
@@ -233,7 +233,7 @@
 
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">PMDM</TextBlock>
 
                     <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="70"></ProgressBar>
 
@@ -245,7 +245,7 @@
 
 
             </ListBoxItem>
-            <ListBoxItem>
+            <ListBoxItem Background="Red">
 
                 <Grid Width="400">
 
@@ -258,7 +258,7 @@
 
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">SGEM</TextBlock>
 
                     <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="47"></ProgressBar>
 
@@ -283,7 +283,7 @@
 
                     </Grid.ColumnDefinitions>
 
-                    <TextBlock HorizontalAlignment="Center">Módulo</TextBlock>
+                    <TextBlock HorizontalAlignment="Center">PSEP</TextBlock>
 
                     <ProgressBar Grid.Column="1" Minimum="0" Maximum="100" Value="28"></ProgressBar>
 
